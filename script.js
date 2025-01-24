@@ -1,0 +1,1 @@
+console.log("Pull Daily practise code on Github")
